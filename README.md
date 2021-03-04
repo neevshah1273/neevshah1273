@@ -65,9 +65,12 @@ Areas of Expertise/Interest: Data Structures & Algorithms.
 </h3>
 <h4>Areas of Expertise/Interest</h4>
 <p>
-  <img src="https://img.shields.io/badge/Data%20Science-D96826?style=flat&logoColor=white">
+  <!--
+<img src="https://img.shields.io/badge/Data%20Science-D96826?style=flat&logoColor=white">
   <img src="https://img.shields.io/badge/Machine%20Learning-74CB34?style=flat&logoColor=white">
-  <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-3E50C1?style=flat&logoColor=white">
+
+-->
+    <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-3E50C1?style=flat&logoColor=white">
 </p>
 <h4>Programming Languages</h4>
 <p>
@@ -76,6 +79,7 @@ Areas of Expertise/Interest: Data Structures & Algorithms.
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white">
 </p>
+<!--
 <h4>Python Libraries</h4>
 <p>
   <img src="https://img.shields.io/badge/Sklearn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
@@ -88,6 +92,8 @@ Areas of Expertise/Interest: Data Structures & Algorithms.
   <img src="https://img.shields.io/badge/Pillow-14354C?style=flat&logoColor=white">
   <img src="https://img.shields.io/badge/NLTK-3E50C1?style=flat&logoColor=white">
 </p>
+
+-->
 <h4>Web Development</h4>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
@@ -113,13 +119,3 @@ Areas of Expertise/Interest: Data Structures & Algorithms.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neevshah1273&theme=vision-friendly-dark">
 </p>
-
-<h3>
-  Some Quotes ✨
-</h3>
-<ul>
-  <li>Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.</li>
-  <li>Don’t practice until you get it right. Practice until you can’t get it wrong.</li>
-  <li>Stand up and walk. Keep moving forward. You've got two good legs. So get up and use them. You're strong enough to make your own path.</li>
-  <li>It's not our abilities that show what we truly are. It is our choices.</li>
-  <li>Nee heb je, ja kun je krijgen. (Translation: You already have no for an answer, but you could get a yes)</li>
