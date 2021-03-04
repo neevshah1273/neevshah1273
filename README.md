@@ -82,6 +82,10 @@ Areas of Expertise/Interest: Data Structures & Algorithms.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
 </p>
+<h4>App Development</h4>
+<p>
+  <img src="">
+</p>
 <details>
   <summary>More Skills</summary>
   <p>
