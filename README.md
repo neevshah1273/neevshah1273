@@ -84,7 +84,7 @@ Areas of Expertise/Interest: Data Structures & Algorithms.
 </p>
 <h4>App Development</h4>
 <p>
-  <img src="">
+  <img src="https://img.shields.io/badge/-Flutter-blue">
 </p>
 <details>
   <summary>More Skills</summary>
