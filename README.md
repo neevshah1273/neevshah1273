@@ -44,10 +44,11 @@ Areas of Expertise/Interest: Data Structures & Algorithms.
   Projects 👨‍💻
 </h3>
 <ul>
-  <li><a href="https://github.com/Project-SafeShop">TimeFlux</a></li>
-  <li><a href="https://github.com/Nkap23/u2net_bgremove_code">CPU Scheduling Application</a></li>
-  <li><a href="https://github.com/Nkap23/TensorFlow_with_Colab_tutorial">AirHockey-JAVA</a></li>
-  <li><a href="https://github.com/ParthPrajapati43/OS-Algorithms">Car-rental Management System</a></li>
+  <li><a href="https://github.com/neevshah1273/Nomadic">Nomadic</a></li>
+  <li><a href="https://github.com/ParthPrajapati43/WebT_Project_Timeflux">TimeFlux</a></li>
+  <li><a href="https://github.com/neevshah1273/CPU-Scheduling">CPU Scheduling Application</a></li>
+  <li><a href="https://github.com/neevshah1273/AIRHOCKY">AirHockey-JAVA</a></li>
+  <li><a href="https://github.com/neevshah1273/Car-Rental-Management-System">Car-rental Management System</a></li>
 </ul>
 
 <!--<h3>
@@ -73,7 +74,7 @@ Areas of Expertise/Interest: Data Structures & Algorithms.
   <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white">
+  <img src="https://badges.aleen42.com/src/java.svg">
 </p>
 
 <h4>Web Development</h4>
