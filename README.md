@@ -29,6 +29,7 @@
   <a href="mailto:neevshah1273@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
   </a>
+  <img src="https://badges.aleen42.com/src/twitter.svg">
 </p>
 
 Hello World 👋
