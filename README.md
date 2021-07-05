@@ -2,9 +2,7 @@
   <img src="GitHub_Banner.png">
 </p>
 
-<p align="center">
-  <img src="">
-</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/neev-shah-832339175/">
