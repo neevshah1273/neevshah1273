@@ -42,7 +42,7 @@ Areas of Expertise/Interest: Data Structures & Algorithms.
   Projects 👨‍💻
 </h3>
 <ul>
-  <li><a href="">E-Voting using Blockchain Technology</a></li>
+  <li><a href="">ElectChain</a></li>
   <li><a href="https://github.com/neevshah1273/Nomadic">Nomadic</a></li>
   <li><a href="https://github.com/ParthPrajapati43/WebT_Project_Timeflux">TimeFlux</a></li>
   <li><a href="https://github.com/neevshah1273/CPU-Scheduling">CPU Scheduling Application</a></li>
