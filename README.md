@@ -77,6 +77,7 @@ Areas of Expertise/Interest: Data Structures & Algorithms.
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
   <img src="https://badges.aleen42.com/src/java.svg">
+  <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black">
 </p>
 
 <h4>Web Development</h4>
