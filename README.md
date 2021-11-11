@@ -33,7 +33,7 @@
 Hello World 👋
 <br/>
 <br/>
-I'm Neev Shah, Computer Science & Engineering undergraduate student (2018-2022 batch) at Pandit Deendayal Petroleum University, Gandhinagar, India.
+I'm Neev Shah, Computer Science & Engineering undergraduate student (2018-2022 batch) at Pandit Deendayal Energy University, Gandhinagar, India.
 <br/>
 <br/>
 Areas of Expertise/Interest: Data Structures & Algorithms.
@@ -42,11 +42,12 @@ Areas of Expertise/Interest: Data Structures & Algorithms.
   Projects 👨‍💻
 </h3>
 <ul>
-  <li><a href="">ElectChain</a></li>
+  <li><a href="https://github.com/neevshah1273/ElectChain">ElectChain</a></li>
   <li><a href="https://github.com/neevshah1273/Nomadic">Nomadic</a></li>
   <li><a href="https://github.com/ParthPrajapati43/WebT_Project_Timeflux">TimeFlux</a></li>
   <li><a href="https://github.com/neevshah1273/CPU-Scheduling">CPU Scheduling Application</a></li>
-  <li><a href="">WeatherApp</a></li>
+  <li><a href="https://github.com/neevshah1273/practo-clone">Practo-Clone</a></li>
+  <li><a href="https://github.com/neevshah1273/WeatherApp">WeatherApp</a></li>
   <li><a href="https://github.com/neevshah1273/AIRHOCKY">AirHockey-JAVA</a></li>
   <li><a href="https://github.com/neevshah1273/Car-Rental-Management-System">Car-rental Management System</a></li>
 </ul>
