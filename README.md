@@ -36,7 +36,7 @@
 Hello World 👋
 <br/>
 <br/>
-I'm Neev Shah, Computer Science & Engineering undergraduate student (2018-2022 batch) at Pandit Deendayal Energy University, Gandhinagar, India.
+I'm Neev Shah, Software Engineering graduate student at Arizona State University. I have completed my bachlors in computer engineering from pandit deendayal energy university. 
 <br/>
 <br/>
 Areas of Expertise/Interest: Data Structures & Algorithms.
