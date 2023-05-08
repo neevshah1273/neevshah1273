@@ -39,31 +39,36 @@ Hello World 👋
 I'm Neev Shah, Software Engineering graduate student at Arizona State University. I have completed my bachlors in computer engineering from pandit deendayal energy university. 
 <br/>
 <br/>
-Areas of Expertise/Interest: Data Structures & Algorithms.
+Areas of Expertise/Interest: Data Structures & Algorithms, Backend Development
 
 <h3>
   Projects 👨‍💻
 </h3>
+<h5>
+  Application Development Based Project
+</h5>
 <ul>
   <li><a href="https://github.com/neevshah1273/ElectChain">ElectChain</a></li>
+  <li><a href="https://play.google.com/store/apps/details?id=com.welcomebroker.welcome_broker&pli=1">Welcome Brokers</a></li>
+  <li><a href="https://github.com/neevshah1273/ecoprice-app">Eco-price</a></li>
+  <li><a href="https://github.com/neevshah1273/practo-clone">Practo-Clone</a></li>
+  <li><a href="https://github.com/neevshah1273/CPU-Scheduling">CPU Scheduling Application</a></li>
+  <li><a href="https://github.com/neevshah1273/WeatherApp">WeatherApp</a></li>
+
+</ul>
+<h5>
+  Web Based Projects
+  </h5>
+<ul>
+  
   <li><a href="https://github.com/neevshah1273/Nomadic">Nomadic</a></li>
   <li><a href="https://github.com/ParthPrajapati43/WebT_Project_Timeflux">TimeFlux</a></li>
-  <li><a href="https://github.com/neevshah1273/CPU-Scheduling">CPU Scheduling Application</a></li>
-  <li><a href="https://github.com/neevshah1273/practo-clone">Practo-Clone</a></li>
-  <li><a href="https://github.com/neevshah1273/WeatherApp">WeatherApp</a></li>
   <li><a href="https://github.com/neevshah1273/AIRHOCKY">AirHockey-JAVA</a></li>
   <li><a href="https://github.com/neevshah1273/Car-Rental-Management-System">Car-rental Management System</a></li>
 </ul>
 
-<!--<h3>
-  Latest Blogs 📝
-</h3>
-<ul>
-  <li><a href="https://medium.com/swlh/tensorflow-2-object-detection-api-with-google-colab-b2af171e81cc">TensorFlow 2 Object Detection API With Google Colab</a></li>
-  <li><a href="https://nisargkapkar.hashnode.dev/image-and-video-background-removal-using-deep-learning">Image & Video Background Removal using Deep Learning</a></li>
-  <li><a href="https://medium.com/analytics-vidhya/training-your-first-machine-learning-model-with-sklearn-e03d5de3bfba">Training your First Machine Learning Model with Python’s sklearn</a></li>
-  <li><a href="https://nisargkapkar.hashnode.dev/nlp-basic-pattern-matching-using-pythons-spacy-library">NLP: Basic Pattern Matching using Python's spaCy library</a></li>
-</ul>-->
+
+
 
 
 <h3>
