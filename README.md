@@ -36,7 +36,7 @@
 Hello World 👋
 <br/>
 <br/>
-I'm Neev Shah, Software Engineering graduate student at Arizona State University. I have completed my bachlors in computer engineering from pandit deendayal energy university. 
+I'm Neev Shah, Software Engineering graduate student at Arizona State University. I have completed my bachlores in computer engineering from pandit deendayal energy university. 
 <br/>
 <br/>
 Areas of Expertise/Interest: Data Structures & Algorithms, Backend Development
@@ -63,6 +63,13 @@ Areas of Expertise/Interest: Data Structures & Algorithms, Backend Development
   
   <li><a href="https://github.com/neevshah1273/Nomadic">Nomadic</a></li>
   <li><a href="https://github.com/ParthPrajapati43/WebT_Project_Timeflux">TimeFlux</a></li>
+</ul>
+<h5> 
+  Other Projects
+</h5>
+
+<ul>
+  <li> Sanskritva - created a programming language based upon sanskrita </li>
   <li><a href="https://github.com/neevshah1273/AIRHOCKY">AirHockey-JAVA</a></li>
   <li><a href="https://github.com/neevshah1273/Car-Rental-Management-System">Car-rental Management System</a></li>
 </ul>
